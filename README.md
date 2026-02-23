@@ -1,4 +1,5 @@
 👋 Hi, I’m Joe Valentine (@jwvalentine)
+
 ⚙️ I build and support infrastructure with a focus on automation, reliability, and documentation.
 
 With 15+ years in Managed & Professional Services, I’ve worked across:
@@ -8,7 +9,9 @@ With 15+ years in Managed & Professional Services, I’ve worked across:
 - Documentation practices that scale teams
 
 🌐 I enjoy learning new technologies and spoken languages.
+
 🎮 Outside of work: retro gaming, hunting, fishing, and ice hockey.
+
 📫 Open to collaboration and technical discussions.
 
 <!---
